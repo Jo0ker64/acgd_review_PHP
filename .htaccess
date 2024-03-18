@@ -1,0 +1,4 @@
+# Option +FollowSymlinks
+# RewriteEngine = on 
+
+# RewiteRule ^cinema$ /movies.php [L]
