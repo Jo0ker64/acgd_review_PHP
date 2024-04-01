@@ -1,7 +1,7 @@
-	<header class="sticky-top" style="background-color: #434343;">
+	<header class="sticky-top" style="background-color: #434343">
 		<nav class="navbar navbar-expand-xl">
 		  <div class="container-fluid align-items-center">
-			<a class="navbar-brand" href="index.html">
+			<a class="navbar-brand" href="index.php">
 			  <img src="./assets/image/areview-header.png" alt="LOGO" width="200" height="100%">
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -19,22 +19,22 @@
 			  </form>
 			  <ul class="navbar-nav d-flex flex-fill text-center order-lg-1">
 				<li class="nav-item flex-fill">
-				  <a class="nav-link" href="movies.html">cinéma</a>
+				  <a class="nav-link" href="movies.php">cinéma</a>
 				</li>
 				<li class="nav-item flex-fill">
-				  <a class="nav-link" href="series.html">séries</a>
+				  <a class="nav-link" href="series.php">séries</a>
 				</li>
 				<li class="nav-item flex-fill">
-				  <a class="nav-link" href="video_game.html">gaming</a>
+				  <a class="nav-link" href="video_game.php">gaming</a>
 				</li>
 				<li class="nav-item flex-fill">
-				  <a class="nav-link" href="music.html">musique</a>
+				  <a class="nav-link" href="music.php">musique</a>
 				</li>
 				<li class="nav-item flex-fill">
-				  <a class="nav-link" href="book.html">livre</a>
+				  <a class="nav-link" href="book.php">livre</a>
 				</li>
 				<li class="nav-item flex-fill">
-				  <a class="nav-link" href="evenement.html">événements</a>
+				  <a class="nav-link" href="evenement.php">événements</a>
 				</li>
 			  </ul>
 			</div>

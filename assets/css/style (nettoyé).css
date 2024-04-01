@@ -626,3 +626,11 @@ a:active {
     min-width: 100%;
     height: 100%
 }
+
+.rectangle {
+    background-color: #f0f0f0; /* couleur grise */
+    padding: 20px; /* espace à l'intérieur du rectangle */
+    border-radius: 10px; /* pour arrondir les coins */
+    border: 2px solid #ccc; /* bordure grise */
+    width: fit-content; /* adapte la largeur du rectangle au contenu */
+}
